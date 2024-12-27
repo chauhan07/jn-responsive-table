@@ -1,0 +1,19 @@
+/*************************************/
+/*************************************/
+/*************************************/
+/*************************************/
+/************** JN Resp **************/
+/****************Tables*************/
+/*************************************/
+/*************************************/
+/*************************************/
+/*************************************/
+
+/*
+ *   Version: 1.0.0                                                                
+ *   Author: Aditya Chauhan                                                        
+ *   License: MIT                                                                  
+ *   Description: The Mobile Responsive Table Script Library is a lightweight and intuitive solution designed to enhance the usability of HTML tables on smaller screens. This library dynamically transforms traditional tables into mobile-friendly, interactive views without compromising the accessibility or readability of the data.                              
+*/
+
+@media screen and (max-width:576px){.jn_table_resp tbody tr td{display:flex;flex-wrap:wrap;font-size:14px}.jn_table_resp tbody tr td span{width:40%}.jn_newAppendedBaby{display:flex!important;flex-wrap:wrap!important;border:0!important;width:100%;background:#fff;margin-top:8px}.jn_newAppendedBaby ul{width:35%;list-style:none;margin:0;padding:0;text-align:left}.jn_newAppendedBaby ul:last-child{width:65%}.jn_newAppendedBaby ul li:nth-child(odd){background:#d1d1d1}.jn_newAppendedBaby ul li{padding:5px;font-size:12px}.jn_newAppendedBaby ul li:last-child{padding-top:10px;padding-bottom:10px}.jn_table_resp td{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center}.jn_table_resp td span{padding:5px 0}}
